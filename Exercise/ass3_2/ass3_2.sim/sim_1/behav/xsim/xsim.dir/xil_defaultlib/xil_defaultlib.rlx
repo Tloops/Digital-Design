@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/10341/ass3_2/ass3_2.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/10341/ass3_2/ass3_2.srcs/sim_1/new/seven_sim.v,1574091249,verilog,,,,seven_sim,,,,,,,,
+C:/Users/10341/ass3_2/ass3_2.srcs/sources_1/new/ABCD_to_seven.v,1574092290,verilog,,C:/Users/10341/ass3_2/ass3_2.srcs/sources_1/new/decoder_4_16.v,,ABCD_to_seven,,,,,,,,
+C:/Users/10341/ass3_2/ass3_2.srcs/sources_1/new/decoder_4_16.v,1574090556,verilog,,C:/Users/10341/ass3_2/ass3_2.srcs/sim_1/new/seven_sim.v,,decoder_4_16,,,,,,,,

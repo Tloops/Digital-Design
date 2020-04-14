@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Dec  2 21:46:30 2019
+# Process ID: 5964
+# Current directory: C:/Users/10341/ass4_1/ass4_1.runs/synth_1
+# Command line: vivado.exe -log Tfilpflop.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Tfilpflop.tcl
+# Log file: C:/Users/10341/ass4_1/ass4_1.runs/synth_1/Tfilpflop.vds
+# Journal file: C:/Users/10341/ass4_1/ass4_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Tfilpflop.tcl -notrace

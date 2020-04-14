@@ -1,0 +1,18 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+                  10{simx, simy, simz, simp} :  1
+                  20{simx, simy, simz, simp} :  2
+                  30{simx, simy, simz, simp} :  3
+                  40{simx, simy, simz, simp} :  4
+                  50{simx, simy, simz, simp} :  5
+                  60{simx, simy, simz, simp} :  6
+                  70{simx, simy, simz, simp} :  7
+                  80{simx, simy, simz, simp} :  8
+                  90{simx, simy, simz, simp} :  9
+                 100{simx, simy, simz, simp} : 10
+                 110{simx, simy, simz, simp} : 11
+                 120{simx, simy, simz, simp} : 12
+                 130{simx, simy, simz, simp} : 13
+                 140{simx, simy, simz, simp} : 14
+                 150{simx, simy, simz, simp} : 15
+$finish called at time : 160 ns : File "C:/Users/10341/Lab5/Lab5.srcs/sim_1/new/lab5_sim.v" Line 37

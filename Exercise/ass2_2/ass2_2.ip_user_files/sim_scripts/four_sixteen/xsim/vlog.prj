@@ -1,0 +1,25 @@
+verilog xil_defaultlib  \
+"../../../bd/four_sixteen/ip/four_sixteen_three_eight_0_0/sim/four_sixteen_three_eight_0_0.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_three_eight_1_0/sim/four_sixteen_three_eight_1_0.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_0_1/sim/four_sixteen_util_vector_logic_0_1.v" \
+"../../../bd/four_sixteen/sim/four_sixteen.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_6/sim/four_sixteen_util_vector_logic_1_6.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_7/sim/four_sixteen_util_vector_logic_1_7.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_8/sim/four_sixteen_util_vector_logic_1_8.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_9/sim/four_sixteen_util_vector_logic_1_9.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_10/sim/four_sixteen_util_vector_logic_1_10.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_2_1/sim/four_sixteen_util_vector_logic_2_1.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_3_0/sim/four_sixteen_util_vector_logic_3_0.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_4_0/sim/four_sixteen_util_vector_logic_4_0.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_11/sim/four_sixteen_util_vector_logic_1_11.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_2_2/sim/four_sixteen_util_vector_logic_2_2.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_3_1/sim/four_sixteen_util_vector_logic_3_1.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_4_1/sim/four_sixteen_util_vector_logic_4_1.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_5_0/sim/four_sixteen_util_vector_logic_5_0.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_6_0/sim/four_sixteen_util_vector_logic_6_0.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_7_0/sim/four_sixteen_util_vector_logic_7_0.v" \
+"../../../bd/four_sixteen/ip/four_sixteen_util_vector_logic_8_0/sim/four_sixteen_util_vector_logic_8_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

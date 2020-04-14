@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="four_eight_sim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="four_eight_sim" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="656500001fs"></ZoomEndTime>
+      <Cursor1Time time="493000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="110"></NameColumnWidth>
+      <ValueColumnWidth column_width="97"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject fp_name="/four_eight_sim/I0" type="logic">
+      <obj_property name="ElementShortName">I0</obj_property>
+      <obj_property name="ObjectShortName">I0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/I1" type="logic">
+      <obj_property name="ElementShortName">I1</obj_property>
+      <obj_property name="ObjectShortName">I1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/I2" type="logic">
+      <obj_property name="ElementShortName">I2</obj_property>
+      <obj_property name="ObjectShortName">I2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/I3" type="logic">
+      <obj_property name="ElementShortName">I3</obj_property>
+      <obj_property name="ObjectShortName">I3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/en" type="logic">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y0" type="logic">
+      <obj_property name="ElementShortName">Y0</obj_property>
+      <obj_property name="ObjectShortName">Y0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y1" type="logic">
+      <obj_property name="ElementShortName">Y1</obj_property>
+      <obj_property name="ObjectShortName">Y1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y2" type="logic">
+      <obj_property name="ElementShortName">Y2</obj_property>
+      <obj_property name="ObjectShortName">Y2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y3" type="logic">
+      <obj_property name="ElementShortName">Y3</obj_property>
+      <obj_property name="ObjectShortName">Y3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y4" type="logic">
+      <obj_property name="ElementShortName">Y4</obj_property>
+      <obj_property name="ObjectShortName">Y4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y5" type="logic">
+      <obj_property name="ElementShortName">Y5</obj_property>
+      <obj_property name="ObjectShortName">Y5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y6" type="logic">
+      <obj_property name="ElementShortName">Y6</obj_property>
+      <obj_property name="ObjectShortName">Y6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y7" type="logic">
+      <obj_property name="ElementShortName">Y7</obj_property>
+      <obj_property name="ObjectShortName">Y7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y8" type="logic">
+      <obj_property name="ElementShortName">Y8</obj_property>
+      <obj_property name="ObjectShortName">Y8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y9" type="logic">
+      <obj_property name="ElementShortName">Y9</obj_property>
+      <obj_property name="ObjectShortName">Y9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y10" type="logic">
+      <obj_property name="ElementShortName">Y10</obj_property>
+      <obj_property name="ObjectShortName">Y10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y11" type="logic">
+      <obj_property name="ElementShortName">Y11</obj_property>
+      <obj_property name="ObjectShortName">Y11</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y12" type="logic">
+      <obj_property name="ElementShortName">Y12</obj_property>
+      <obj_property name="ObjectShortName">Y12</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y13" type="logic">
+      <obj_property name="ElementShortName">Y13</obj_property>
+      <obj_property name="ObjectShortName">Y13</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y14" type="logic">
+      <obj_property name="ElementShortName">Y14</obj_property>
+      <obj_property name="ObjectShortName">Y14</obj_property>
+   </wvobject>
+   <wvobject fp_name="/four_eight_sim/Y15" type="logic">
+      <obj_property name="ElementShortName">Y15</obj_property>
+      <obj_property name="ObjectShortName">Y15</obj_property>
+   </wvobject>
+</wave_config>

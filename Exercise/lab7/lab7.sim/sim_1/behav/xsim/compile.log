@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/10341/Desktop/Digital Design/lab/Digital design lab7/lab7_7_segment_tube.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab7_7_segment_tube
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/10341/lab7/lab7.srcs/sim_1/new/lab7_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lab7_sim

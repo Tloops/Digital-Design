@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/10341/ass3_1/ass3_1.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/10341/ass3_1/ass3_1.srcs/sim_1/new/FullSubstract_sim.v,1574083607,verilog,,,,FullSubstract_sim,,,,,,,,
+C:/Users/10341/ass3_1/ass3_1.srcs/sources_1/new/Full_Subtracter.v,1574083023,verilog,,C:/Users/10341/ass3_1/ass3_1.srcs/sources_1/new/four_one_MUX.v,,Full_Subtracter,,,,,,,,
+C:/Users/10341/ass3_1/ass3_1.srcs/sources_1/new/four_one_MUX.v,1574082094,verilog,,C:/Users/10341/ass3_1/ass3_1.srcs/sim_1/new/FullSubstract_sim.v,,four_one_MUX,,,,,,,,

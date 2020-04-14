@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Dec  2 22:43:28 2019
+# Process ID: 19792
+# Current directory: C:/Users/10341/ass4_1_laji/ass4_1_laji.runs/synth_1
+# Command line: vivado.exe -log ass4_1_laji.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ass4_1_laji.tcl
+# Log file: C:/Users/10341/ass4_1_laji/ass4_1_laji.runs/synth_1/ass4_1_laji.vds
+# Journal file: C:/Users/10341/ass4_1_laji/ass4_1_laji.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ass4_1_laji.tcl -notrace

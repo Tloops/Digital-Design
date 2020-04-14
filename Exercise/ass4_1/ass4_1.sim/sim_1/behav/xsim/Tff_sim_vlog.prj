@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ass4_1.srcs/sources_1/new/Dlatch.v" \
+"../../../../ass4_1.srcs/sources_1/new/Tfilpflop.v" \
+"../../../../ass4_1.srcs/sim_1/new/Tff_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

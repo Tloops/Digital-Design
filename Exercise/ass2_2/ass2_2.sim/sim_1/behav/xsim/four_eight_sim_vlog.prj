@@ -1,0 +1,31 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ass2_2.srcs/sources_1/new/three_eight.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_three_eight_0_0/sim/four_sixteen_three_eight_0_0.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_three_eight_1_0/sim/four_sixteen_three_eight_1_0.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_0_1/sim/four_sixteen_util_vector_logic_0_1.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/sim/four_sixteen.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_6/sim/four_sixteen_util_vector_logic_1_6.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_7/sim/four_sixteen_util_vector_logic_1_7.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_8/sim/four_sixteen_util_vector_logic_1_8.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_9/sim/four_sixteen_util_vector_logic_1_9.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_10/sim/four_sixteen_util_vector_logic_1_10.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_2_1/sim/four_sixteen_util_vector_logic_2_1.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_3_0/sim/four_sixteen_util_vector_logic_3_0.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_4_0/sim/four_sixteen_util_vector_logic_4_0.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_1_11/sim/four_sixteen_util_vector_logic_1_11.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_2_2/sim/four_sixteen_util_vector_logic_2_2.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_3_1/sim/four_sixteen_util_vector_logic_3_1.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_4_1/sim/four_sixteen_util_vector_logic_4_1.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_5_0/sim/four_sixteen_util_vector_logic_5_0.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_6_0/sim/four_sixteen_util_vector_logic_6_0.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_7_0/sim/four_sixteen_util_vector_logic_7_0.v" \
+"../../../../ass2_2.ip_user_files/bd/four_sixteen/ip/four_sixteen_util_vector_logic_8_0/sim/four_sixteen_util_vector_logic_8_0.v" \
+"../../../../ass2_2.srcs/sources_1/bd/four_sixteen/hdl/four_sixteen_wrapper.v" \
+"../../../../ass2_2.srcs/sources_1/new/four_eight_sim.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

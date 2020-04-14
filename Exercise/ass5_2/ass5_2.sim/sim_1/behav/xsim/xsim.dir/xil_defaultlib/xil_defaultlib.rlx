@@ -1,0 +1,8 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/10341/ass5_2/ass5_2.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/10341/ass5_2/ass5_2.srcs/sim_1/new/counter_sim.v,1576673624,verilog,,,,counter_sim,,,,,,,,
+C:/Users/10341/ass5_2/ass5_2.srcs/sources_1/new/JK_flipflop.v,1576672383,verilog,,C:/Users/10341/ass5_2/ass5_2.srcs/sources_1/new/counter.v,,JK_flipflop,,,,,,,,
+C:/Users/10341/ass5_2/ass5_2.srcs/sources_1/new/counter.v,1576675127,verilog,,C:/Users/10341/ass5_2/ass5_2.srcs/sim_1/new/counter_sim.v,,counter,,,,,,,,

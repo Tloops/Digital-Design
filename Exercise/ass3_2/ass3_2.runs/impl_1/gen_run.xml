@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tfgg484-1" LaunchTime="1574092477">
+  <File Type="PWROPT-DCP" Name="ABCD_to_seven_pwropt.dcp"/>
+  <File Type="ROUTE-PWR" Name="ABCD_to_seven_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="ABCD_to_seven.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="ABCD_to_seven_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="ABCD_to_seven_reports.tcl"/>
+  <File Type="BG-DRC" Name="ABCD_to_seven.drc"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="ABCD_to_seven_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="ABCD_to_seven_timing_summary_init.rpt"/>
+  <File Type="OPT-HWDEF" Name="ABCD_to_seven.hwdef"/>
+  <File Type="OPT-DCP" Name="ABCD_to_seven_opt.dcp"/>
+  <File Type="OPT-DRC" Name="ABCD_to_seven_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="ABCD_to_seven_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DRC" Name="ABCD_to_seven_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="ABCD_to_seven_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="ABCD_to_seven_placed.dcp"/>
+  <File Type="PLACE-IO" Name="ABCD_to_seven_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="ABCD_to_seven_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="ABCD_to_seven_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="ABCD_to_seven_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="ABCD_to_seven_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="ABCD_to_seven_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="ABCD_to_seven_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="ABCD_to_seven_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="ABCD_to_seven_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="ABCD_to_seven_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="ABCD_to_seven_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="ABCD_to_seven_drc_physopted.rpt"/>
+  <File Type="BG-BIT" Name="ABCD_to_seven.bit"/>
+  <File Type="PHYSOPT-TIMING" Name="ABCD_to_seven_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="ABCD_to_seven_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="ABCD_to_seven_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="ABCD_to_seven_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="ABCD_to_seven_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="ABCD_to_seven_drc_routed.pb"/>
+  <File Type="BITSTR-MSK" Name="ABCD_to_seven.msk"/>
+  <File Type="ROUTE-DRC-RPX" Name="ABCD_to_seven_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="ABCD_to_seven.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="ABCD_to_seven_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-RBT" Name="ABCD_to_seven.rbt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ABCD_to_seven_methodology_drc_routed.rpx"/>
+  <File Type="BG-BIN" Name="ABCD_to_seven.bin"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ABCD_to_seven_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="ABCD_to_seven_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="ABCD_to_seven_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="ABCD_to_seven_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="ABCD_to_seven_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="ABCD_to_seven_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="ABCD_to_seven_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="ABCD_to_seven_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="ABCD_to_seven.vdi"/>
+  <File Type="ROUTE-CLK" Name="ABCD_to_seven_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="ABCD_to_seven_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="ABCD_to_seven_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="ABCD_to_seven_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="ABCD_to_seven_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="ABCD_to_seven_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="ABCD_to_seven.nky"/>
+  <File Type="BITSTR-BMM" Name="ABCD_to_seven_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="ABCD_to_seven.mmi"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="ABCD_to_seven.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="ABCD_to_seven.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/decoder_4_16.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ABCD_to_seven.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ABCD_to_seven"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../Desktop/Digital Design/lab/Digital design lab7/lab7_7seg_tube.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2017">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

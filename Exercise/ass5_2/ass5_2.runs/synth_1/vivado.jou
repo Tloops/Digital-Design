@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Dec 18 21:33:56 2019
+# Process ID: 17340
+# Current directory: C:/Users/10341/ass5_2/ass5_2.runs/synth_1
+# Command line: vivado.exe -log counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source counter.tcl
+# Log file: C:/Users/10341/ass5_2/ass5_2.runs/synth_1/counter.vds
+# Journal file: C:/Users/10341/ass5_2/ass5_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source counter.tcl -notrace
